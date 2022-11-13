@@ -4,7 +4,7 @@
 
 👇You wanna unlock the NEW Discord Active Developer Badge on your profile, just like me?👇
 
-<h2> <img src="https://media.discordapp.net/attachments/1040315775082319942/1040645521754292224/image.png?width=325&height=671"> </h2>
+<h2> <img src="https://cdn.discordapp.com/attachments/1010880741304979497/1041322776453189683/image.png"> </h2>
 
   
   ### Pre-Requisite
@@ -37,6 +37,6 @@ The last step is to visit the [Active Developer Page](https://discord.com/develo
  # Enjoy your new **Active Developer Badge** and feel free to give this Repository a ⭐
  
  # Official YouTube Tutorial
-[![Official YouTube Tutorial](https://media.discordapp.net/attachments/1020084272868110450/1040716643233443953/get_discord_active_developer_badge_now_get_the_new_discord_badge_active_developer_badge_discord_active_dev_badge_20222.png)](https://www.youtube.com/watch?v=vCQtTywrGDk)
+[![Official YouTube Tutorial](https://cdn.discordapp.com/attachments/1010880741304979497/1041322985455374396/Neues_Projekt.png)](https://www.youtube.com/watch?v=4Y-Gms5bPZw)
 
-*Frost☃️
+*Imdat4Fun 🎮
